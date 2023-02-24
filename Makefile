@@ -12,6 +12,3 @@ reverse.o:reverse.c
 	gcc -c reverse.c
 sum2.o:sum2.c
 	gcc -c sum2.c
-
-clean:
-	rm -rf *.o ABC.exe
